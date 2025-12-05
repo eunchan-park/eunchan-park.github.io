@@ -300,6 +300,9 @@ enable_publication_badges:
 filtered_bibtex_keywords:
   [
     abbr,
+    abbr2,
+    abbr3,
+    abbr4,
     abstract,
     additional_info,
     altmetric,
