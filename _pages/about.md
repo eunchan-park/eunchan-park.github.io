@@ -24,4 +24,17 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-<h4>
+<h4><b>Contacts</b></h4>
+E-mail: eunchan.park@kaist.ac.kr
+
+<h4><b>Research Interests</b></h4>
+<ul style="padding-left:20px;">
+<li> Service Orchestration</li>
+  <ul style="padding-left:20px;">
+  <li>Autocaling and scheduling services, XaaS, ...</li>
+  </ul>
+<li> Edge-Cloud Continuum</li>
+  <ul style="padding-left:20px;">
+  <li>Software Engineering issues for Edge-Cloud services</li>
+  </ul>
+</ul>
