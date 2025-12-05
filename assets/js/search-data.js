@@ -21,8 +21,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+            },},{id: "news-i-started-my-ph-d-at-web-engineering-amp-amp-service-computing-lab-kaist-advisor-in-young-ko",
+          title: 'I started my Ph.D. at Web Engineering &amp;amp;amp; Service Computing Lab, KAIST (Advisor:...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
