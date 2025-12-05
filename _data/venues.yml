@@ -7,3 +7,15 @@
 
 "Vision":
   color: "#009f36"
+
+"Autoscaling":
+  color: "#66AFFF"
+
+"RL":
+  color: "#FDAA48"
+
+"Fog Computing":
+  color: "#8b87ff"
+
+"MS Troubleshooting":
+  color: "#82b588"
