@@ -31,7 +31,7 @@ E-mail: eunchan.park@kaist.ac.kr
 <ul style="padding-left:20px;">
 <li> Service Orchestration</li>
   <ul style="padding-left:20px;">
-  <li>Autocaling and scheduling services, XaaS, ...</li>
+  <li>Autoscaling and scheduling services, XaaS, ...</li>
   </ul>
 <li> Edge-Cloud Continuum</li>
   <ul style="padding-left:20px;">
