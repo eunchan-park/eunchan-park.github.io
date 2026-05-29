@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-My paper is accepted to IEEE International Conference on Web Services!
+My paper is accepted to IEEE International Conference on Web Services \[Acceptance rate: 19%\].

@@ -9,7 +9,7 @@
   color: "#009f36"
 
 "Service Orchestration":
-  color: "#66AFFF"
+  color: "#009f36"
 
 "RL":
   color: "#FDAA48"
@@ -21,4 +21,4 @@
   color: "#82b588"
 
 "Fault Localization":
-  color: "#009f36"
+  color: "#66AFFF"
