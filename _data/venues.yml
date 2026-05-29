@@ -8,7 +8,7 @@
 "Vision":
   color: "#009f36"
 
-"Autoscaling":
+"Service Orchestration":
   color: "#66AFFF"
 
 "RL":
@@ -19,3 +19,4 @@
 
 "MS Troubleshooting":
   color: "#82b588"
+
